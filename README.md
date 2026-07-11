@@ -2,7 +2,7 @@
 
 Customer segmentation on credit card behavioral data using **K-Means Clustering**, an unsupervised machine learning technique. This project identifies distinct customer groups based on spending, payment, and credit usage patterns to support data-driven marketing and risk management decisions.
 
-🔗 **Live App:** [Coming soon after deployment]
+🔗 **Live App:** [https://credit-card-customer-segmentation-3rdproject.streamlit.app/]
 📂 **Notebook:** `Credit_Card_Dataset_for_Clustering.ipynb`
 
 ---
